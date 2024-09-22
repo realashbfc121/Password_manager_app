@@ -1,0 +1,15 @@
+A guide to help navigate this app
+
+# You can save your passwords here by entering the website and associated fields
+
+# You can add entries for multiple usernames for the same website
+
+# Passwords are saved locally in your pc so cannot be swiped online
+
+# Press the search button to browse for password with the website and associated username provided
+
+# If search is performed with empty username then display all entries for the website provided
+
+# Generate password button will automatically copy password to the clipboard, so you can paste anywhere
+
+# Searching for password with username and website will also copy password to clipboard
